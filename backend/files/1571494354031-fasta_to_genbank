@@ -1,0 +1,14 @@
+LOCUS       sp|Q91XI3|INS_ICTTR      110 bp    DNA              UNK 01-JAN-1980
+DEFINITION  sp|Q91XI3|INS_ICTTR Insulin OS=Ictidomys tridecemlineatus OX=43179
+            GN=INS PE=3 SV=1.
+ACCESSION   sp|Q91XI3|INS_ICTTR
+VERSION     sp|Q91XI3|INS_ICTTR
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 malwtrllpl lallallgpd paqafvnqhl cgshlvealy lvcgergffy tpksrrevee
+       61 qqggqvelgg gpgaglpqpl alemalqkrg iveqcctsic slyqlenycn
+//

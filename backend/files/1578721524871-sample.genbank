@@ -1,0 +1,19 @@
+LOCUS       M57671.1                 432 bp    DNA              UNK 01-JAN-1980
+DEFINITION  M57671.1 Octodon degus insulin mRNA, complete cds
+ACCESSION   M57671
+VERSION     M57671.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gcattctgag gcattctcta acaggttctc gaccctccgc catggccccg tggatgcatc
+       61 tcctcaccgt gctggccctg ctggccctct ggggacccaa ctctgttcag gcctattcca
+      121 gccagcacct gtgcggctcc aacctagtgg aggcactgta catgacatgt ggacggagtg
+      181 gcttctatag accccacgac cgccgagagc tggaggacct ccaggtggag caggcagaac
+      241 tgggtctgga ggcaggcggc ctgcagcctt cggccctgga gatgattctg cagaagcgcg
+      301 gcattgtgga tcagtgctgt aataacattt gcacatttaa ccagctgcag aactactgca
+      361 atgtccctta gacacctgcc ttgggcctgg cctgctgctc tgccctggca accaataaac
+      421 cccttgaatg ag
+//

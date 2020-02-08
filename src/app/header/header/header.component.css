@@ -1,0 +1,17 @@
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+/* materials toolbar uses flex layout so an element with this class with create a space between the previous and the next one
+"it takes all the available remaining space"
+*/
+.space {
+  flex: 1 1 auto;
+}

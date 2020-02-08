@@ -1,0 +1,34 @@
+LOCUS       roa1_drome               358 aa                     UNK 01-JAN-1980
+DEFINITION  Rea guano receptor type III >> 0.1.
+ACCESSION   roa1_drome
+VERSION     roa1_drome
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 mvnsnqnqng nsnghdddfp qdsitepehm rklfiggldy rttdenlkah ekwgnivdvv
+       61 vmkdprtkrs rgfgfitysh ssmideaqks rphkidgrve pkravprqdi dspnagatvk
+      121 klfvgalkdd hdeqsirdyf qhfgnivdni vidketgkkr gfafvefddy dpvdkvvlqk
+      181 qhqlngkmvd vkkalpkndq qgggggrggp ggraggnrgn mgggnygnqn gggnwnnggn
+      241 nwgnnrgndn wgnnsfgggg gggggygggn nswgnnnpwd ngngggnfgg ggnnwnggnd
+      301 fggyqqnygg gpqrgggnfn nnrmqpyqgg ggfkagggnq gnygnnqgfn nggnnrry
+//
+LOCUS       roa2_drome               358 aa                     UNK 01-JAN-1980
+DEFINITION  Rea guano ligand.
+ACCESSION   roa2_drome
+VERSION     roa2_drome
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 mvnsnqnqng nsnghdddfp qdsitepehm rklfiggldy rttdenlkah ekwgnivdvv
+       61 vmkdptstst ststststst stmideaqks rphkidgrve pkravprqdi dspnagatvk
+      121 klfvgalkdd hdeqsirdyf qhllllllld lllldlllld lllfvefddy dpvdkvvlqk
+      181 qhqlngkmvd vkkalpkndq qgggggrggp ggraggnrgn mgggnygnqn gggnwnnggn
+      241 nwgnnrgndn wgnnsfgggg gggggygggn nswgnnnpwd ngngggnfgg ggnnwnggnd
+      301 fggyqqnygg gpqrgggnfn nnrmqpyqgg ggfkagggnq gnygnnqgfn nggnnrry
+//

@@ -1,0 +1,42 @@
+LOCUS       CYS1_DICDI               164 bp    DNA              UNK 01-JAN-1980
+DEFINITION  CYS1_DICDI.
+ACCESSION   CYS1_DICDI
+VERSION     CYS1_DICDI
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 -----mkvil lfvlavftvf vss------- --------rg ippeeq---- --------sq
+       61 flefqdkfnk ky-sheeyle rfeifksnlg kieelnliai nhkadtkfgv nkfadlssde
+      121 fknyylnnke aiftddlpva dylddefins iptafdwrtr g---
+//
+LOCUS       ALEU_HORVU               164 bp    DNA              UNK 01-JAN-1980
+DEFINITION  ALEU_HORVU.
+ACCESSION   ALEU_HORVU
+VERSION     ALEU_HORVU
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 maharvllla lavlataava vassssfads npirpvtdra astlesavlg algrtrhalr
+       61 farfavrygk syesaaevrr rfrifsesle evrstn---- rkglpyrlgi nrfsdmswee
+      121 fqatrl-gaa qtcsatlagn hlmrda--aa lpetkdwred g-iv
+//
+LOCUS       CATH_HUMAN               164 bp    DNA              UNK 01-JAN-1980
+DEFINITION  CATH_HUMAN.
+ACCESSION   CATH_HUMAN
+VERSION     CATH_HUMAN
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ------mwat lpllcagawl lgv------- -pvcgaaels vnslek---- --------fh
+       61 fkswmskhrk ty-steeyhh rlqtfasnwr kinahn---- ngnhtfkmal nqfsdmsfae
+      121 ikhkylwsep qncsat--ks nylrgt--gp yppsvdwrkk gnfv
+//

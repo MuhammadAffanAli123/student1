@@ -1,0 +1,86 @@
+<p>One of the major challenges in using bioinformatics software is that there are a wide variety of sequence formats, e.g, GenBank and FASTA. It is often the case that a sequence or a set of sequences is in one format but is needed in another. This project offers a solution to this problem.Pattern converter is a program that can read and write different formats.<br>How to use?<br>Upload format file,Select input format,Select output format, Convert and Download or Reset
+</p>
+
+<mat-card>
+
+    <mat-spinner *ngIf="isLoading"></mat-spinner>
+
+    <form [formGroup]="form" (submit)="onConvert()" (reset)="onReset()" *ngIf="!isLoading">
+        <div>
+            <button mat-stroked-button type="button" (click)="filePicker.click()">Choose Input File </button>
+            <input type="file" #filePicker (change)="onFilePicked($event)">
+        </div>
+        <mat-error *ngIf="form.get('sequence').invalid">Please select a file</mat-error>
+
+        <div *ngIf="sequencePreview && form.get('sequence').valid">
+            {{form.get('sequence').value?.name}}
+        </div>
+
+        <mat-form-field style="margin-top: 10px">
+            <mat-label>Input Format</mat-label>
+            <mat-select
+                    [formControlName]="'inputFormat'"
+            >
+                <mat-option *ngFor="let format of formats" [value]="format.value">
+                    {{format.viewValue}}
+                </mat-option>
+            </mat-select>
+        </mat-form-field>
+
+
+        <mat-form-field style="margin-top: 10px">
+            <mat-label>Output Format</mat-label>
+            <mat-select
+                    [formControlName]="'outputFormat'"
+            >
+                <mat-option *ngFor="let format of formatsOut" [value]="format.value">
+                    {{format.viewValue}}
+                </mat-option>
+            </mat-select>
+        </mat-form-field>
+
+        <button
+                mat-raised-button
+                color="secondary"
+                type="reset"
+                style="margin-right: 15px"
+        >Reset
+        </button>
+
+        <button
+                mat-raised-button
+                color="primary"
+                type="submit"
+        >Convert
+        </button>
+
+    </form>
+</mat-card>
+
+<mat-card style="margin-top: 10px">
+
+    <form [formGroup]="formResult" (submit)="onDownload($event)" *ngIf="!isLoading">
+        <mat-form-field>
+      <textarea matInput
+                rows="7"
+                formControlName="result"
+                placeholder="Result will be shown here after conversion"
+                [readonly]="true"
+      ></textarea>
+        </mat-form-field>
+
+        <!--<button-->
+                <!--mat-raised-button-->
+                <!--color="primary"-->
+                <!--type="submit"-->
+                <!--[disabled]="!formResult.get('result').value"-->
+        <!--&gt;Download-->
+        <!--</button>-->
+
+        <a href="{{resultPath}}" *ngIf="formResult.get('result').value">Download</a>
+
+    </form>
+</mat-card>
+<p style="border:1px solid Blue;width: 600px;padding: 10px;">Project by M Uzair,Shiza Tooba Gul & Samrah Akbar Students of BS-BI
+<br>Acknowledgement Engr Asif Shaikh & Miss Khalida Naveed
+</p>

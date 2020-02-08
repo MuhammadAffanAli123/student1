@@ -1,0 +1,24 @@
+LOCUS       A                         63 aa                     UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   A
+VERSION     A
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 mivpessdpa alkrarntea arrsrarklq rmkqledkve ellsknyhle nevarlkklv
+       61 ger
+//
+LOCUS       B                          0 aa                     UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   B
+VERSION     B
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+//

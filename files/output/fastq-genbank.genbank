@@ -1,0 +1,3000 @@
+LOCUS       cluster_2:UMI_ATTCCG      31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_2:UMI_ATTCCG.
+ACCESSION   cluster_2:UMI_ATTCCG
+VERSION     cluster_2:UMI_ATTCCG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tttccggggc acataatctt cagccgggcg c
+//
+LOCUS       cluster_8:UMI_CTTTGA      31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_8:UMI_CTTTGA.
+ACCESSION   cluster_8:UMI_CTTTGA
+VERSION     cluster_8:UMI_CTTTGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tatccttgca atactctccg aacgggagag c
+//
+LOCUS       cluster_12:UMI_GGTCAA     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_12:UMI_GGTCAA.
+ACCESSION   cluster_12:UMI_GGTCAA
+VERSION     cluster_12:UMI_GGTCAA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gcagtttaag atcattttat tgaagagcaa g
+//
+LOCUS       cluster_21:UMI_AGAACA     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_21:UMI_AGAACA.
+ACCESSION   cluster_21:UMI_AGAACA
+VERSION     cluster_21:UMI_AGAACA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggcattgcaa aatttattac acccccagat c
+//
+LOCUS       cluster_29:UMI_GCAGGA     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_29:UMI_GCAGGA.
+ACCESSION   cluster_29:UMI_GCAGGA
+VERSION     cluster_29:UMI_GCAGGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cccccttaaa tagctgttta tttggcccca g
+//
+LOCUS       cluster_34:UMI_AGCTCA     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_34:UMI_AGCTCA.
+ACCESSION   cluster_34:UMI_AGCTCA
+VERSION     cluster_34:UMI_AGCTCA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tcttgcaaaa actcctagat cggaagagca c
+//
+LOCUS       cluster_36:UMI_AACAGA     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_36:UMI_AACAGA.
+ACCESSION   cluster_36:UMI_AACAGA
+VERSION     cluster_36:UMI_AACAGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tccccccccc aaatcggaaa aacacacccc c
+//
+LOCUS       cluster_37:UMI_GAGGAG     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_37:UMI_GAGGAG.
+ACCESSION   cluster_37:UMI_GAGGAG
+VERSION     cluster_37:UMI_GAGGAG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gtctttgtac aaaattttat taaaggtctt t
+//
+LOCUS       cluster_39:UMI_GAACCG     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_39:UMI_GAACCG.
+ACCESSION   cluster_39:UMI_GAACCG
+VERSION     cluster_39:UMI_GAACCG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccttccatca ccagatcgga aaaacacacg c
+//
+LOCUS       cluster_43:UMI_GGATTG     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_43:UMI_GGATTG.
+ACCESSION   cluster_43:UMI_GGATTG
+VERSION     cluster_43:UMI_GGATTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gagttataat ccaatcttta tttaaaaatc t
+//
+LOCUS       cluster_53:UMI_GTGGGG     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_53:UMI_GTGGGG.
+ACCESSION   cluster_53:UMI_GTGGGG
+VERSION     cluster_53:UMI_GTGGGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggaaaatgaa aatgttggat gagaacaatt a
+//
+LOCUS       cluster_55:UMI_CTAATG     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_55:UMI_CTAATG.
+ACCESSION   cluster_55:UMI_CTAATG
+VERSION     cluster_55:UMI_CTAATG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 agacaaaagg atttatttgg aaatttccaa a
+//
+LOCUS       cluster_58:UMI_GTTTTG     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_58:UMI_GTTTTG.
+ACCESSION   cluster_58:UMI_GTTTTG
+VERSION     cluster_58:UMI_GTTTTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 aaagcaatcc acagaagggc atttctaccg a
+//
+LOCUS       cluster_62:UMI_CCTTGC     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_62:UMI_CCTTGC.
+ACCESSION   cluster_62:UMI_CCTTGC
+VERSION     cluster_62:UMI_CCTTGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gagttgcgac aatactctcc cccgagaccc a
+//
+LOCUS       cluster_63:UMI_TTTCCC     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_63:UMI_TTTCCC.
+ACCESSION   cluster_63:UMI_TTTCCC
+VERSION     cluster_63:UMI_TTTCCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gcaaccatac tccccccgga acccaaagac t
+//
+LOCUS       cluster_66:UMI_TTGGGG     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_66:UMI_TTGGGG.
+ACCESSION   cluster_66:UMI_TTGGGG
+VERSION     cluster_66:UMI_TTGGGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccaactaact tttattttaa gttcaggggg t
+//
+LOCUS       cluster_70:UMI_CCGGGA     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_70:UMI_CCGGGA.
+ACCESSION   cluster_70:UMI_CCGGGA
+VERSION     cluster_70:UMI_CCGGGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ctttttcttc taaaattttt tcttctctgg c
+//
+LOCUS       cluster_71:UMI_CCAATA     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_71:UMI_CCAATA.
+ACCESSION   cluster_71:UMI_CCAATA
+VERSION     cluster_71:UMI_CCAATA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cagctttgca accatactcc ccccggaacc c
+//
+LOCUS       cluster_82:UMI_TTTTTG     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_82:UMI_TTTTTG.
+ACCESSION   cluster_82:UMI_TTTTTG
+VERSION     cluster_82:UMI_TTTTTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gcttatgttt tataaaaata agttgcccca g
+//
+LOCUS       cluster_83:UMI_CCAGTC     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_83:UMI_CCAGTC.
+ACCESSION   cluster_83:UMI_CCAGTC
+VERSION     cluster_83:UMI_CCAGTC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ctcccacagt tctgcgccag agcggaagag c
+//
+LOCUS       cluster_87:UMI_TGACAC     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_87:UMI_TGACAC.
+ACCESSION   cluster_87:UMI_TGACAC
+VERSION     cluster_87:UMI_TGACAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggttgagcac agggtacttt attgatggta c
+//
+LOCUS       cluster_88:UMI_TGCCGA     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_88:UMI_TGCCGA.
+ACCESSION   cluster_88:UMI_TGCCGA
+VERSION     cluster_88:UMI_TGCCGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tcactacctc cccgggtcgg gagtggggta t
+//
+LOCUS       cluster_90:UMI_ACGGGG     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_90:UMI_ACGGGG.
+ACCESSION   cluster_90:UMI_ACGGGG
+VERSION     cluster_90:UMI_ACGGGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tttttttgtg aaggagtctt tccccccaga c
+//
+LOCUS       cluster_93:UMI_ATTGTA     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_93:UMI_ATTGTA.
+ACCESSION   cluster_93:UMI_ATTGTA
+VERSION     cluster_93:UMI_ATTGTA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tcctcactat ctgattcctc cccagatcgg a
+//
+LOCUS       cluster_96:UMI_ACTAGG     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_96:UMI_ACTAGG.
+ACCESSION   cluster_96:UMI_ACTAGG
+VERSION     cluster_96:UMI_ACTAGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggaatgcaac aactttattg aaaggaaagt g
+//
+LOCUS       cluster_98:UMI_CTTTGG     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_98:UMI_CTTTGG.
+ACCESSION   cluster_98:UMI_CTTTGG
+VERSION     cluster_98:UMI_CTTTGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 agttcccccc cctatatcga aaaacacacc c
+//
+LOCUS       cluster_99:UMI_CAACAA     31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_99:UMI_CAACAA.
+ACCESSION   cluster_99:UMI_CAACAA
+VERSION     cluster_99:UMI_CAACAA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tttgtttttt ttttttccac ccccacatgg a
+//
+LOCUS       cluster_105:UMI_TCGCGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_105:UMI_TCGCGC.
+ACCESSION   cluster_105:UMI_TCGCGC
+VERSION     cluster_105:UMI_TCGCGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gattgagaca gagtctgctg tgttgccccc c
+//
+LOCUS       cluster_107:UMI_TCCATG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_107:UMI_TCCATG.
+ACCESSION   cluster_107:UMI_TCCATG
+VERSION     cluster_107:UMI_TCCATG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 atcggaagag cacacgtctg aactccagtc a
+//
+LOCUS       cluster_113:UMI_ACAATA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_113:UMI_ACAATA.
+ACCESSION   cluster_113:UMI_ACAATA
+VERSION     cluster_113:UMI_ACAATA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gcttcagctg cccagatcgg aagaacacac g
+//
+LOCUS       cluster_114:UMI_TTTATG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_114:UMI_TTTATG.
+ACCESSION   cluster_114:UMI_TTTATG
+VERSION     cluster_114:UMI_TTTATG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tctttttttc ttttcttttt tttttttttt a
+//
+LOCUS       cluster_117:UMI_TCAGTA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_117:UMI_TCAGTA.
+ACCESSION   cluster_117:UMI_TCAGTA
+VERSION     cluster_117:UMI_TCAGTA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gcactactat attagattgt gttatccgtt a
+//
+LOCUS       cluster_124:UMI_CGGCGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_124:UMI_CGGCGC.
+ACCESSION   cluster_124:UMI_CGGCGC
+VERSION     cluster_124:UMI_CGGCGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gagacggagt ttcactctta ttgcccccca g
+//
+LOCUS       cluster_126:UMI_CATGAA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_126:UMI_CATGAA.
+ACCESSION   cluster_126:UMI_CATGAA
+VERSION     cluster_126:UMI_CATGAA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cccccccaga tcggaaaagc acacgcctga a
+//
+LOCUS       cluster_130:UMI_GTAGGG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_130:UMI_GTAGGG.
+ACCESSION   cluster_130:UMI_GTAGGG
+VERSION     cluster_130:UMI_GTAGGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggtagagata gggtcttgct atgtagccca g
+//
+LOCUS       cluster_131:UMI_AGTGTA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_131:UMI_AGTGTA.
+ACCESSION   cluster_131:UMI_AGTGTA
+VERSION     cluster_131:UMI_AGTGTA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gtgagcacag ggtactttat tgatggtaca t
+//
+LOCUS       cluster_134:UMI_TAGTGA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_134:UMI_TAGTGA.
+ACCESSION   cluster_134:UMI_TAGTGA
+VERSION     cluster_134:UMI_TAGTGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tgttagacaa aataaatgta ttttttcact c
+//
+LOCUS       cluster_137:UMI_ACGGAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_137:UMI_ACGGAC.
+ACCESSION   cluster_137:UMI_ACGGAC
+VERSION     cluster_137:UMI_ACGGAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gcaaatataa acaggtttat ctattctgtc t
+//
+LOCUS       cluster_140:UMI_TTACTC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_140:UMI_TTACTC.
+ACCESSION   cluster_140:UMI_TTACTC
+VERSION     cluster_140:UMI_TTACTC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggaccccccc caaagtcgga aaacacaccc c
+//
+LOCUS       cluster_144:UMI_CAGGGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_144:UMI_CAGGGC.
+ACCESSION   cluster_144:UMI_CAGGGC
+VERSION     cluster_144:UMI_CAGGGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccaccccccc caaatcggaa aaacacaccc c
+//
+LOCUS       cluster_148:UMI_GCCTGG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_148:UMI_GCCTGG.
+ACCESSION   cluster_148:UMI_GCCTGG
+VERSION     cluster_148:UMI_GCCTGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 catacccccc ccagatcgga aaaacacacg c
+//
+LOCUS       cluster_149:UMI_CGGCGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_149:UMI_CGGCGC.
+ACCESSION   cluster_149:UMI_CGGCGC
+VERSION     cluster_149:UMI_CGGCGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gccactatat ctcaagcatt aaaatacatg t
+//
+LOCUS       cluster_152:UMI_TCGAAA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_152:UMI_TCGAAA.
+ACCESSION   cluster_152:UMI_TCGAAA
+VERSION     cluster_152:UMI_TCGAAA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gctgtctagt catcctcgtc ggtcttctgc t
+//
+LOCUS       cluster_153:UMI_TACAAA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_153:UMI_TACAAA.
+ACCESSION   cluster_153:UMI_TACAAA
+VERSION     cluster_153:UMI_TACAAA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttttttttac actttataac acacttttta t
+//
+LOCUS       cluster_159:UMI_CGGGGG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_159:UMI_CGGGGG.
+ACCESSION   cluster_159:UMI_CGGGGG
+VERSION     cluster_159:UMI_CGGGGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gtctgcacag ataaatcttt cttctcatta c
+//
+LOCUS       cluster_162:UMI_AACGGG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_162:UMI_AACGGG.
+ACCESSION   cluster_162:UMI_AACGGG
+VERSION     cluster_162:UMI_AACGGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccacaacatt ccatttatac acagaactaa a
+//
+LOCUS       cluster_164:UMI_GCTGAG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_164:UMI_GCTGAG.
+ACCESSION   cluster_164:UMI_GCTGAG
+VERSION     cluster_164:UMI_GCTGAG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tatttttttt tttttttttt ttttttgtgt g
+//
+LOCUS       cluster_165:UMI_AGTCGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_165:UMI_AGTCGC.
+ACCESSION   cluster_165:UMI_AGTCGC
+VERSION     cluster_165:UMI_AGTCGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttggctcttt ttcgtttatt gcatgccccc c
+//
+LOCUS       cluster_169:UMI_TGAGCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_169:UMI_TGAGCC.
+ACCESSION   cluster_169:UMI_TGAGCC
+VERSION     cluster_169:UMI_TGAGCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 aaaaatgcct ggaaatcact tgctagttac a
+//
+LOCUS       cluster_172:UMI_GTTTCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_172:UMI_GTTTCC.
+ACCESSION   cluster_172:UMI_GTTTCC
+VERSION     cluster_172:UMI_GTTTCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggctttgcaa ccatactccc cccggaaccc a
+//
+LOCUS       cluster_176:UMI_TGGGCG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_176:UMI_TGGGCG.
+ACCESSION   cluster_176:UMI_TGGGCG
+VERSION     cluster_176:UMI_TGGGCG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gggttcaaac ccccagatcg gaaaagacac a
+//
+LOCUS       cluster_181:UMI_CTTGCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_181:UMI_CTTGCC.
+ACCESSION   cluster_181:UMI_CTTGCC
+VERSION     cluster_181:UMI_CTTGCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 taaacagagt cttactctat tgtccaggct g
+//
+LOCUS       cluster_182:UMI_TATCAG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_182:UMI_TATCAG.
+ACCESSION   cluster_182:UMI_TATCAG
+VERSION     cluster_182:UMI_TATCAG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 aatgttcttt cctctgttgg ctttggccat t
+//
+LOCUS       cluster_186:UMI_GGGTAG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_186:UMI_GGGTAG.
+ACCESSION   cluster_186:UMI_GGGTAG
+VERSION     cluster_186:UMI_GGGTAG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cctttccttt cccccagatc ggaagagcac a
+//
+LOCUS       cluster_189:UMI_GCCTTG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_189:UMI_GCCTTG.
+ACCESSION   cluster_189:UMI_GCCTTG
+VERSION     cluster_189:UMI_GCCTTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttggtatata aactatttat taacagacaa g
+//
+LOCUS       cluster_190:UMI_GGCGGA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_190:UMI_GGCGGA.
+ACCESSION   cluster_190:UMI_GGCGGA
+VERSION     cluster_190:UMI_GGCGGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 caaatcaata ggtcttttat tgcatcattt a
+//
+LOCUS       cluster_197:UMI_AGGATG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_197:UMI_AGGATG.
+ACCESSION   cluster_197:UMI_AGGATG
+VERSION     cluster_197:UMI_AGGATG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggcatatgaa aatttattac tacagtgttt t
+//
+LOCUS       cluster_207:UMI_TGAACA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_207:UMI_TGAACA.
+ACCESSION   cluster_207:UMI_TGAACA
+VERSION     cluster_207:UMI_TGAACA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gtttcccccc ccaaatcgga aaaacacacc c
+//
+LOCUS       cluster_211:UMI_ACTGGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_211:UMI_ACTGGC.
+ACCESSION   cluster_211:UMI_ACTGGC
+VERSION     cluster_211:UMI_ACTGGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccccccccaa atcggaaaaa cacaccccta a
+//
+LOCUS       cluster_215:UMI_TCAAAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_215:UMI_TCAAAC.
+ACCESSION   cluster_215:UMI_TCAAAC
+VERSION     cluster_215:UMI_TCAAAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tcccccccaa atcggaaaaa cacaccccta a
+//
+LOCUS       cluster_216:UMI_TATTCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_216:UMI_TATTCC.
+ACCESSION   cluster_216:UMI_TATTCC
+VERSION     cluster_216:UMI_TATTCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gctttgcaac catactcccc ccaagatcgg a
+//
+LOCUS       cluster_217:UMI_CTCGGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_217:UMI_CTCGGC.
+ACCESSION   cluster_217:UMI_CTCGGC
+VERSION     cluster_217:UMI_CTCGGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ctaaactttt attgaaaaaa aaaccgagga g
+//
+LOCUS       cluster_218:UMI_TGCTCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_218:UMI_TGCTCC.
+ACCESSION   cluster_218:UMI_TGCTCC
+VERSION     cluster_218:UMI_TGCTCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cccccccaaa atcggaaaaa cacaccccta a
+//
+LOCUS       cluster_219:UMI_ACGTGG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_219:UMI_ACGTGG.
+ACCESSION   cluster_219:UMI_ACGTGG
+VERSION     cluster_219:UMI_ACGTGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tgtaattagt agacatggtc ttctacccat a
+//
+LOCUS       cluster_222:UMI_TTTGTG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_222:UMI_TTTGTG.
+ACCESSION   cluster_222:UMI_TTTGTG
+VERSION     cluster_222:UMI_TTTGTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tgagacaggg ttcgccagcg tggacccttt a
+//
+LOCUS       cluster_223:UMI_ATTTCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_223:UMI_ATTTCC.
+ACCESSION   cluster_223:UMI_ATTTCC
+VERSION     cluster_223:UMI_ATTTCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccttctgttt ctttttccct tctttccttc c
+//
+LOCUS       cluster_228:UMI_GCCTTC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_228:UMI_GCCTTC.
+ACCESSION   cluster_228:UMI_GCCTTC
+VERSION     cluster_228:UMI_GCCTTC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 caggtgtttt ttctcccaga tcggaagagc a
+//
+LOCUS       cluster_229:UMI_CAAGTA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_229:UMI_CAAGTA.
+ACCESSION   cluster_229:UMI_CAAGTA
+VERSION     cluster_229:UMI_CAAGTA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gaggtttgca gctattttat ttacaagtat a
+//
+LOCUS       cluster_232:UMI_TGTTCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_232:UMI_TGTTCC.
+ACCESSION   cluster_232:UMI_TGTTCC
+VERSION     cluster_232:UMI_TGTTCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tccccccccc aaatcggaaa aacacacccc c
+//
+LOCUS       cluster_238:UMI_AGGTTG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_238:UMI_AGGTTG.
+ACCESSION   cluster_238:UMI_AGGTTG
+VERSION     cluster_238:UMI_AGGTTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gcttcctact tttcaggttt aaatttatct t
+//
+LOCUS       cluster_241:UMI_CTCTCA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_241:UMI_CTCTCA.
+ACCESSION   cluster_241:UMI_CTCTCA
+VERSION     cluster_241:UMI_CTCTCA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 caactttccc ttaccccaga tcggaagagc a
+//
+LOCUS       cluster_248:UMI_TTTTTG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_248:UMI_TTTTTG.
+ACCESSION   cluster_248:UMI_TTTTTG
+VERSION     cluster_248:UMI_TTTTTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 taggaaaaaa tggttttgga catgggatga a
+//
+LOCUS       cluster_252:UMI_CAAAAG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_252:UMI_CAAAAG.
+ACCESSION   cluster_252:UMI_CAAAAG
+VERSION     cluster_252:UMI_CAAAAG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tacctttgag acagagtctc gctctgtcac c
+//
+LOCUS       cluster_253:UMI_GCGCTC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_253:UMI_GCGCTC.
+ACCESSION   cluster_253:UMI_GCGCTC
+VERSION     cluster_253:UMI_GCGCTC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tcgtcactac ctccccgggt cgggagtggg g
+//
+LOCUS       cluster_254:UMI_TGTGCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_254:UMI_TGTGCC.
+ACCESSION   cluster_254:UMI_TGTGCC
+VERSION     cluster_254:UMI_TGTGCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 taatgtgcta cttttaattt attaaaatcc c
+//
+LOCUS       cluster_256:UMI_AGACAG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_256:UMI_AGACAG.
+ACCESSION   cluster_256:UMI_AGACAG
+VERSION     cluster_256:UMI_AGACAG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccgtgatcct ttttcagtgc ttctacaatg c
+//
+LOCUS       cluster_258:UMI_TGCGGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_258:UMI_TGCGGC.
+ACCESSION   cluster_258:UMI_TGCGGC
+VERSION     cluster_258:UMI_TGCGGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gtttgttttt ttttttttcc cagatcggaa g
+//
+LOCUS       cluster_265:UMI_AATTTG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_265:UMI_AATTTG.
+ACCESSION   cluster_265:UMI_AATTTG
+VERSION     cluster_265:UMI_AATTTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 taccccaccc aaatcggaat aacacaccca c
+//
+LOCUS       cluster_272:UMI_ACTCGA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_272:UMI_ACTCGA.
+ACCESSION   cluster_272:UMI_ACTCGA
+VERSION     cluster_272:UMI_ACTCGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 aacttgacac ctttaaaata gcattaaaca g
+//
+LOCUS       cluster_273:UMI_TCGAAA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_273:UMI_TCGAAA.
+ACCESSION   cluster_273:UMI_TCGAAA
+VERSION     cluster_273:UMI_TCGAAA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggttttcctt tttatttaat caaagactgg t
+//
+LOCUS       cluster_281:UMI_CCGATA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_281:UMI_CCGATA.
+ACCESSION   cluster_281:UMI_CCGATA
+VERSION     cluster_281:UMI_CCGATA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tagtcttagc atttactttc cccccagatc g
+//
+LOCUS       cluster_286:UMI_CGGTGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_286:UMI_CGGTGC.
+ACCESSION   cluster_286:UMI_CGGTGC
+VERSION     cluster_286:UMI_CGGTGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 aacaatgatc aattttaaga aatgggtaca t
+//
+LOCUS       cluster_287:UMI_GGATGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_287:UMI_GGATGC.
+ACCESSION   cluster_287:UMI_GGATGC
+VERSION     cluster_287:UMI_GGATGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggacataata ataacaattg aatgtctgca c
+//
+LOCUS       cluster_289:UMI_CTTCTA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_289:UMI_CTTCTA.
+ACCESSION   cluster_289:UMI_CTTCTA
+VERSION     cluster_289:UMI_CTTCTA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccccctccca aatcggaaaa acacacccct a
+//
+LOCUS       cluster_290:UMI_TTCCCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_290:UMI_TTCCCC.
+ACCESSION   cluster_290:UMI_TTCCCC
+VERSION     cluster_290:UMI_TTCCCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 acttttgaga cagggtcttg ctcttgctat g
+//
+LOCUS       cluster_293:UMI_CGCACC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_293:UMI_CGCACC.
+ACCESSION   cluster_293:UMI_CGCACC
+VERSION     cluster_293:UMI_CGCACC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 atcacttcta tcaaagattg ctctattatc t
+//
+LOCUS       cluster_295:UMI_TCGGGG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_295:UMI_TCGGGG.
+ACCESSION   cluster_295:UMI_TCGGGG
+VERSION     cluster_295:UMI_TCGGGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cttggtacat gattttatag caagcacatt t
+//
+LOCUS       cluster_296:UMI_TTTTTC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_296:UMI_TTTTTC.
+ACCESSION   cluster_296:UMI_TTTTTC
+VERSION     cluster_296:UMI_TTTTTC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gagattgagc ctcgttgacc aggctggagc a
+//
+LOCUS       cluster_298:UMI_TTGACA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_298:UMI_TTGACA.
+ACCESSION   cluster_298:UMI_TTGACA
+VERSION     cluster_298:UMI_TTGACA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gtcaaatatt tattgaatgg tggaaaacca t
+//
+LOCUS       cluster_299:UMI_ATCGCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_299:UMI_ATCGCC.
+ACCESSION   cluster_299:UMI_ATCGCC
+VERSION     cluster_299:UMI_ATCGCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gccccccccc aaatcggaaa aacacacccc c
+//
+LOCUS       cluster_301:UMI_GCGGGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_301:UMI_GCGGGC.
+ACCESSION   cluster_301:UMI_GCGGGC
+VERSION     cluster_301:UMI_GCGGGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggctttggga agccccgcgg gggaccggca c
+//
+LOCUS       cluster_302:UMI_TCGGCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_302:UMI_TCGGCC.
+ACCESSION   cluster_302:UMI_TCGGCC
+VERSION     cluster_302:UMI_TCGGCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttgctactac caccaagatc cccagaccgg a
+//
+LOCUS       cluster_303:UMI_AGTCAA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_303:UMI_AGTCAA.
+ACCESSION   cluster_303:UMI_AGTCAA
+VERSION     cluster_303:UMI_AGTCAA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gtcaaaagaa aagcgtttat ttaaaaaaat c
+//
+LOCUS       cluster_309:UMI_TTTCAA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_309:UMI_TTTCAA.
+ACCESSION   cluster_309:UMI_TTTCAA
+VERSION     cluster_309:UMI_TTTCAA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 atagtttaat gtattttaat agcaaactta c
+//
+LOCUS       cluster_310:UMI_TAAACC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_310:UMI_TAAACC.
+ACCESSION   cluster_310:UMI_TAAACC
+VERSION     cluster_310:UMI_TAAACC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cttatcattt taatcgattt taatgattat t
+//
+LOCUS       cluster_316:UMI_TGCTAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_316:UMI_TGCTAC.
+ACCESSION   cluster_316:UMI_TGCTAC
+VERSION     cluster_316:UMI_TGCTAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttgagggatg gaagaatata taatctatca a
+//
+LOCUS       cluster_321:UMI_AGAGGA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_321:UMI_AGAGGA.
+ACCESSION   cluster_321:UMI_AGAGGA
+VERSION     cluster_321:UMI_AGAGGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttgacgaccg cgccatgctg taatatacaa c
+//
+LOCUS       cluster_323:UMI_CAGAGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_323:UMI_CAGAGC.
+ACCESSION   cluster_323:UMI_CAGAGC
+VERSION     cluster_323:UMI_CAGAGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccctttttcc cccagatcgg aaaaacacac c
+//
+LOCUS       cluster_330:UMI_TACCGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_330:UMI_TACCGC.
+ACCESSION   cluster_330:UMI_TACCGC
+VERSION     cluster_330:UMI_TACCGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gagatggagt cttctctcag atcggaagag c
+//
+LOCUS       cluster_337:UMI_TTCCCG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_337:UMI_TTCCCG.
+ACCESSION   cluster_337:UMI_TTCCCG
+VERSION     cluster_337:UMI_TTCCCG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccttcctatt tattgcccag atcggaagag c
+//
+LOCUS       cluster_338:UMI_TTACCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_338:UMI_TTACCC.
+ACCESSION   cluster_338:UMI_TTACCC
+VERSION     cluster_338:UMI_TTACCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gttgtcaaat tatcctttat tgaaatgttt t
+//
+LOCUS       cluster_339:UMI_GCCCAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_339:UMI_GCCCAC.
+ACCESSION   cluster_339:UMI_GCCCAC
+VERSION     cluster_339:UMI_GCCCAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 aattttgtaa aaaatggttt atcaattcca t
+//
+LOCUS       cluster_340:UMI_GGTTAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_340:UMI_GGTTAC.
+ACCESSION   cluster_340:UMI_GGTTAC
+VERSION     cluster_340:UMI_GGTTAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cttttttttt tttttttttt tttttttttt t
+//
+LOCUS       cluster_344:UMI_GAGGTG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_344:UMI_GAGGTG.
+ACCESSION   cluster_344:UMI_GAGGTG
+VERSION     cluster_344:UMI_GAGGTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cttttcctcc gctgcccaga tcggaagagc a
+//
+LOCUS       cluster_347:UMI_ATCAAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_347:UMI_ATCAAC.
+ACCESSION   cluster_347:UMI_ATCAAC
+VERSION     cluster_347:UMI_ATCAAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gactgaacta agtggttttt ttattagaga a
+//
+LOCUS       cluster_349:UMI_CTATGA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_349:UMI_CTATGA.
+ACCESSION   cluster_349:UMI_CTATGA
+VERSION     cluster_349:UMI_CTATGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cagctttgca accatactcc ccccggaacc c
+//
+LOCUS       cluster_351:UMI_TGTTAG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_351:UMI_TGTTAG.
+ACCESSION   cluster_351:UMI_TGTTAG
+VERSION     cluster_351:UMI_TGTTAG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ctgactaata tgccccagat cggaaaagca c
+//
+LOCUS       cluster_357:UMI_CGCTCA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_357:UMI_CGCTCA.
+ACCESSION   cluster_357:UMI_CGCTCA
+VERSION     cluster_357:UMI_CGCTCA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gagattttaa ttaattttta taaaatctga g
+//
+LOCUS       cluster_359:UMI_CTACAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_359:UMI_CTACAC.
+ACCESSION   cluster_359:UMI_CTACAC
+VERSION     cluster_359:UMI_CTACAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cctagaaaca gaatagtctt tacttttact g
+//
+LOCUS       cluster_362:UMI_TTATAA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_362:UMI_TTATAA.
+ACCESSION   cluster_362:UMI_TTATAA
+VERSION     cluster_362:UMI_TTATAA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cttctttcct gtttttttta aaatccttct t
+//
+LOCUS       cluster_367:UMI_GAGGTG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_367:UMI_GAGGTG.
+ACCESSION   cluster_367:UMI_GAGGTG
+VERSION     cluster_367:UMI_GAGGTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccccccccca aatcggaaaa acacacccct a
+//
+LOCUS       cluster_368:UMI_GGGCGA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_368:UMI_GGGCGA.
+ACCESSION   cluster_368:UMI_GGGCGA
+VERSION     cluster_368:UMI_GGGCGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 taggtttttc agtgtattgc tttgaggacc c
+//
+LOCUS       cluster_373:UMI_ACTGCA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_373:UMI_ACTGCA.
+ACCESSION   cluster_373:UMI_ACTGCA
+VERSION     cluster_373:UMI_ACTGCA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 caactattta aaaacgtaaa aactattctt a
+//
+LOCUS       cluster_375:UMI_ATCCGG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_375:UMI_ATCCGG.
+ACCESSION   cluster_375:UMI_ATCCGG
+VERSION     cluster_375:UMI_ATCCGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccccctcccc aaatcggaaa aacacacccc t
+//
+LOCUS       cluster_376:UMI_AAGCAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_376:UMI_AAGCAC.
+ACCESSION   cluster_376:UMI_AAGCAC
+VERSION     cluster_376:UMI_AAGCAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tctttgtaca aaattttatt aaaggtcttt a
+//
+LOCUS       cluster_381:UMI_GGAACA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_381:UMI_GGAACA.
+ACCESSION   cluster_381:UMI_GGAACA
+VERSION     cluster_381:UMI_GGAACA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gagacggagt ctcgctctgt tgcccccaga t
+//
+LOCUS       cluster_382:UMI_CGCGCG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_382:UMI_CGCGCG.
+ACCESSION   cluster_382:UMI_CGCGCG
+VERSION     cluster_382:UMI_CGCGCG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cggtcataag tttaatgaag tccccagatc g
+//
+LOCUS       cluster_387:UMI_TGTACG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_387:UMI_TGTACG.
+ACCESSION   cluster_387:UMI_TGTACG
+VERSION     cluster_387:UMI_TGTACG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tgccttttga aaccaaatat ttaatatttt c
+//
+LOCUS       cluster_388:UMI_GCGGGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_388:UMI_GCGGGC.
+ACCESSION   cluster_388:UMI_GCGGGC
+VERSION     cluster_388:UMI_GCGGGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tcttcctctt ctttctcccc agatcggaag a
+//
+LOCUS       cluster_389:UMI_AATTCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_389:UMI_AATTCC.
+ACCESSION   cluster_389:UMI_AATTCC
+VERSION     cluster_389:UMI_AATTCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttgcaaccat actccccccg gaacccccca g
+//
+LOCUS       cluster_390:UMI_CGGTGG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_390:UMI_CGGTGG.
+ACCESSION   cluster_390:UMI_CGGTGG
+VERSION     cluster_390:UMI_CGGTGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 agacagaatt tcgctcctgt agccccccag a
+//
+LOCUS       cluster_391:UMI_TCTATA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_391:UMI_TCTATA.
+ACCESSION   cluster_391:UMI_TCTATA
+VERSION     cluster_391:UMI_TCTATA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gttcattttg ccatgactaa gccactataa a
+//
+LOCUS       cluster_399:UMI_CAAACA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_399:UMI_CAAACA.
+ACCESSION   cluster_399:UMI_CAAACA
+VERSION     cluster_399:UMI_CAAACA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ctttctccag ttgttcccag atcggaagag c
+//
+LOCUS       cluster_400:UMI_TCCGTG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_400:UMI_TCCGTG.
+ACCESSION   cluster_400:UMI_TCCGTG
+VERSION     cluster_400:UMI_TCCGTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gtgcgcaaaa gttttattgt aaaaaaagac c
+//
+LOCUS       cluster_404:UMI_CTTAAA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_404:UMI_CTTAAA.
+ACCESSION   cluster_404:UMI_CTTAAA
+VERSION     cluster_404:UMI_CTTAAA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tttcacactg aaatatcctt ttattgcaac t
+//
+LOCUS       cluster_406:UMI_AACGGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_406:UMI_AACGGC.
+ACCESSION   cluster_406:UMI_AACGGC
+VERSION     cluster_406:UMI_AACGGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 agatggagtc tcgctctgtc gcccaggctg g
+//
+LOCUS       cluster_408:UMI_AAACAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_408:UMI_AAACAC.
+ACCESSION   cluster_408:UMI_AAACAC
+VERSION     cluster_408:UMI_AAACAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cttttacact ggccacagag cgtttattga c
+//
+LOCUS       cluster_410:UMI_GTGTTA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_410:UMI_GTGTTA.
+ACCESSION   cluster_410:UMI_GTGTTA
+VERSION     cluster_410:UMI_GTGTTA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tggtgtgtgg gatggagtct tgctctgttg c
+//
+LOCUS       cluster_428:UMI_GGACCG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_428:UMI_GGACCG.
+ACCESSION   cluster_428:UMI_GGACCG
+VERSION     cluster_428:UMI_GGACCG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccttttcctt tctctttttt ttctttagtg t
+//
+LOCUS       cluster_434:UMI_CGTCAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_434:UMI_CGTCAC.
+ACCESSION   cluster_434:UMI_CGTCAC
+VERSION     cluster_434:UMI_CGTCAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gacagtctca cttggtcacc ccccagatcg g
+//
+LOCUS       cluster_435:UMI_TCGTCA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_435:UMI_TCGTCA.
+ACCESSION   cluster_435:UMI_TCGTCA
+VERSION     cluster_435:UMI_TCGTCA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggctttgcaa ccatactccc cccggaaccc a
+//
+LOCUS       cluster_438:UMI_CCGTAA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_438:UMI_CCGTAA.
+ACCESSION   cluster_438:UMI_CCGTAA
+VERSION     cluster_438:UMI_CCGTAA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 aaagttcagc tttttattga acatgttata a
+//
+LOCUS       cluster_441:UMI_GCATAG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_441:UMI_GCATAG.
+ACCESSION   cluster_441:UMI_GCATAG
+VERSION     cluster_441:UMI_GCATAG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gctctagagg gggtagaggg ggtgctatag g
+//
+LOCUS       cluster_444:UMI_ATAGAA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_444:UMI_ATAGAA.
+ACCESSION   cluster_444:UMI_ATAGAA
+VERSION     cluster_444:UMI_ATAGAA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tggtaccccc ccaaatcgga aaaacacacc c
+//
+LOCUS       cluster_448:UMI_GAGAAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_448:UMI_GAGAAC.
+ACCESSION   cluster_448:UMI_GAGAAC
+VERSION     cluster_448:UMI_GAGAAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggaaataaaa gcacaactat atttgggcac c
+//
+LOCUS       cluster_454:UMI_GAATGG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_454:UMI_GAATGG.
+ACCESSION   cluster_454:UMI_GAATGG
+VERSION     cluster_454:UMI_GAATGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 atttcataat tctcctttat taggcacagg t
+//
+LOCUS       cluster_455:UMI_GTGAGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_455:UMI_GTGAGC.
+ACCESSION   cluster_455:UMI_GTGAGC
+VERSION     cluster_455:UMI_GTGAGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cctttcttct ctccccagat cggaaaagca c
+//
+LOCUS       cluster_456:UMI_ACTGTG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_456:UMI_ACTGTG.
+ACCESSION   cluster_456:UMI_ACTGTG
+VERSION     cluster_456:UMI_ACTGTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gctagctttc tatttgtaaa ctttgtgtcg g
+//
+LOCUS       cluster_460:UMI_TCTCAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_460:UMI_TCTCAC.
+ACCESSION   cluster_460:UMI_TCTCAC
+VERSION     cluster_460:UMI_TCTCAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gcttttcttt ctttctctat tctttcttcc c
+//
+LOCUS       cluster_464:UMI_CCCGTG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_464:UMI_CCCGTG.
+ACCESSION   cluster_464:UMI_CCCGTG
+VERSION     cluster_464:UMI_CCCGTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccccccccca aatcggaaaa acacacccct a
+//
+LOCUS       cluster_467:UMI_AATCTG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_467:UMI_AATCTG.
+ACCESSION   cluster_467:UMI_AATCTG
+VERSION     cluster_467:UMI_AATCTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gttggttaaa tctttactca cagtaattta c
+//
+LOCUS       cluster_470:UMI_GCTTTC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_470:UMI_GCTTTC.
+ACCESSION   cluster_470:UMI_GCTTTC
+VERSION     cluster_470:UMI_GCTTTC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ctgagacgaa gtctcactct gtcgcccagg c
+//
+LOCUS       cluster_472:UMI_GAGGCA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_472:UMI_GAGGCA.
+ACCESSION   cluster_472:UMI_GAGGCA
+VERSION     cluster_472:UMI_GAGGCA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cccttggacc ataaattttt attggcaggt c
+//
+LOCUS       cluster_475:UMI_TGTCGA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_475:UMI_TGTCGA.
+ACCESSION   cluster_475:UMI_TGTCGA
+VERSION     cluster_475:UMI_TGTCGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gtaccccccc caaatcggaa aaacacaccc c
+//
+LOCUS       cluster_478:UMI_TGAGTA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_478:UMI_TGAGTA.
+ACCESSION   cluster_478:UMI_TGAGTA
+VERSION     cluster_478:UMI_TGAGTA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ctttgtacaa aattttatta aaggtcttta g
+//
+LOCUS       cluster_485:UMI_CATTCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_485:UMI_CATTCC.
+ACCESSION   cluster_485:UMI_CATTCC
+VERSION     cluster_485:UMI_CATTCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cagctttgca accatactcc ccccccagat c
+//
+LOCUS       cluster_489:UMI_GGCGTG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_489:UMI_GGCGTG.
+ACCESSION   cluster_489:UMI_GGCGTG
+VERSION     cluster_489:UMI_GGCGTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tgtgttccaa ttcttttatt attcgggcct c
+//
+LOCUS       cluster_490:UMI_TAGGCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_490:UMI_TAGGCC.
+ACCESSION   cluster_490:UMI_TAGGCC
+VERSION     cluster_490:UMI_TAGGCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 agaatcttaa actaaatcct ttatttcaaa a
+//
+LOCUS       cluster_491:UMI_TTCCCG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_491:UMI_TTCCCG.
+ACCESSION   cluster_491:UMI_TTCCCG
+VERSION     cluster_491:UMI_TTCCCG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gagacagagt ttcgctcttg tcacccaggc t
+//
+LOCUS       cluster_492:UMI_TCGTAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_492:UMI_TCGTAC.
+ACCESSION   cluster_492:UMI_TCGTAC
+VERSION     cluster_492:UMI_TCGTAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cccccccaga tcggaaaagc acacgtctga a
+//
+LOCUS       cluster_493:UMI_TTATTG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_493:UMI_TTATTG.
+ACCESSION   cluster_493:UMI_TTATTG
+VERSION     cluster_493:UMI_TTATTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggccaactga atgtaatcta gtttattcaa c
+//
+LOCUS       cluster_496:UMI_GTATCA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_496:UMI_GTATCA.
+ACCESSION   cluster_496:UMI_GTATCA
+VERSION     cluster_496:UMI_GTATCA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 acgaatgagg caatttatta acccagcatg g
+//
+LOCUS       cluster_503:UMI_CGGTGA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_503:UMI_CGGTGA.
+ACCESSION   cluster_503:UMI_CGGTGA
+VERSION     cluster_503:UMI_CGGTGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cagactgagt ttcactcttt gttgcccagg c
+//
+LOCUS       cluster_510:UMI_TCGTGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_510:UMI_TCGTGC.
+ACCESSION   cluster_510:UMI_TCGTGC
+VERSION     cluster_510:UMI_TCGTGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gcaacacgtt tattgagagg cagttgtgct c
+//
+LOCUS       cluster_513:UMI_TCGCTC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_513:UMI_TCGCTC.
+ACCESSION   cluster_513:UMI_TCGCTC
+VERSION     cluster_513:UMI_TCGCTC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cactgttaaa aacatttatt ctgatacatt c
+//
+LOCUS       cluster_519:UMI_CTTAAA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_519:UMI_CTTAAA.
+ACCESSION   cluster_519:UMI_CTTAAA
+VERSION     cluster_519:UMI_CTTAAA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggttgagcac agggtacttt attgatggta c
+//
+LOCUS       cluster_521:UMI_TCCATA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_521:UMI_TCCATA.
+ACCESSION   cluster_521:UMI_TCCATA
+VERSION     cluster_521:UMI_TCCATA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tgtccagctg ctcctgatcg gaatacagca c
+//
+LOCUS       cluster_523:UMI_TGCCTG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_523:UMI_TGCCTG.
+ACCESSION   cluster_523:UMI_TGCCTG
+VERSION     cluster_523:UMI_TGCCTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttgcagattt ccttcatcaa attaaaacag t
+//
+LOCUS       cluster_524:UMI_AGGGAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_524:UMI_AGGGAC.
+ACCESSION   cluster_524:UMI_AGGGAC
+VERSION     cluster_524:UMI_AGGGAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tttttttttt tttttttttt ttttctccag c
+//
+LOCUS       cluster_525:UMI_AGGGGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_525:UMI_AGGGGC.
+ACCESSION   cluster_525:UMI_AGGGGC
+VERSION     cluster_525:UMI_AGGGGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gttcgttcaa gtgcactttc cagtacactt a
+//
+LOCUS       cluster_530:UMI_GACACA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_530:UMI_GACACA.
+ACCESSION   cluster_530:UMI_GACACA
+VERSION     cluster_530:UMI_GACACA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggtgcatatg cataagtgga gcccagaggg c
+//
+LOCUS       cluster_533:UMI_GGGGTC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_533:UMI_GGGGTC.
+ACCESSION   cluster_533:UMI_GGGGTC
+VERSION     cluster_533:UMI_GGGGTC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggtacccccc cccagatcgg aaaaacacac c
+//
+LOCUS       cluster_535:UMI_CCGCTA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_535:UMI_CCGCTA.
+ACCESSION   cluster_535:UMI_CCGCTA
+VERSION     cluster_535:UMI_CCGCTA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ctcagcaccc attgtaaatt atttgtggat g
+//
+LOCUS       cluster_536:UMI_GTTACA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_536:UMI_GTTACA.
+ACCESSION   cluster_536:UMI_GTTACA
+VERSION     cluster_536:UMI_GTTACA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccccccccca catccgaaaa cacacccccg c
+//
+LOCUS       cluster_537:UMI_GACTCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_537:UMI_GACTCC.
+ACCESSION   cluster_537:UMI_GACTCC
+VERSION     cluster_537:UMI_GACTCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gacgctcaca cttagttttt attagccaca g
+//
+LOCUS       cluster_542:UMI_CCGACA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_542:UMI_CCGACA.
+ACCESSION   cluster_542:UMI_CCGACA
+VERSION     cluster_542:UMI_CCGACA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tttttttttt tttttttttt tttttttttt t
+//
+LOCUS       cluster_545:UMI_ACGATC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_545:UMI_ACGATC.
+ACCESSION   cluster_545:UMI_ACGATC
+VERSION     cluster_545:UMI_ACGATC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cttgcttcag ttttatttgt acaaatatca c
+//
+LOCUS       cluster_559:UMI_TCAACG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_559:UMI_TCAACG.
+ACCESSION   cluster_559:UMI_TCAACG
+VERSION     cluster_559:UMI_TCAACG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccggcactaa gtcaagttct ttacttcccc a
+//
+LOCUS       cluster_563:UMI_GCCTCG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_563:UMI_GCCTCG.
+ACCESSION   cluster_563:UMI_GCCTCG
+VERSION     cluster_563:UMI_GCCTCG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cccccccccc aaatcggaaa aacacacccc c
+//
+LOCUS       cluster_564:UMI_TTCGCA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_564:UMI_TTCGCA.
+ACCESSION   cluster_564:UMI_TTCGCA
+VERSION     cluster_564:UMI_TTCGCA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tttttttttt tttttttttt tttttttttt t
+//
+LOCUS       cluster_566:UMI_CGCATA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_566:UMI_CGCATA.
+ACCESSION   cluster_566:UMI_CGCATA
+VERSION     cluster_566:UMI_CGCATA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gacggatgag tcttttaata gaaaaacaca c
+//
+LOCUS       cluster_569:UMI_GGCTCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_569:UMI_GGCTCC.
+ACCESSION   cluster_569:UMI_GGCTCC
+VERSION     cluster_569:UMI_GGCTCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gcagaacact tctttattat agcaacatat a
+//
+LOCUS       cluster_572:UMI_AAGACC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_572:UMI_AAGACC.
+ACCESSION   cluster_572:UMI_AAGACC
+VERSION     cluster_572:UMI_AAGACC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gcaaccatac tcccccagat cggaaaagca c
+//
+LOCUS       cluster_578:UMI_GGGCTA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_578:UMI_GGGCTA.
+ACCESSION   cluster_578:UMI_GGGCTA
+VERSION     cluster_578:UMI_GGGCTA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggtacagaca ggatctcact atgttgccca g
+//
+LOCUS       cluster_586:UMI_AATTCA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_586:UMI_AATTCA.
+ACCESSION   cluster_586:UMI_AATTCA
+VERSION     cluster_586:UMI_AATTCA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ctgctcagct ctttattgat tggtgtgccc a
+//
+LOCUS       cluster_587:UMI_TTCCGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_587:UMI_TTCCGC.
+ACCESSION   cluster_587:UMI_TTCCGC
+VERSION     cluster_587:UMI_TTCCGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cccccccaga tcggaaaaac acacgcctga a
+//
+LOCUS       cluster_588:UMI_ACATGG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_588:UMI_ACATGG.
+ACCESSION   cluster_588:UMI_ACATGG
+VERSION     cluster_588:UMI_ACATGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 agttagagtc tcagtcaccc aggctggaat a
+//
+LOCUS       cluster_591:UMI_CAGGGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_591:UMI_CAGGGC.
+ACCESSION   cluster_591:UMI_CAGGGC
+VERSION     cluster_591:UMI_CAGGGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cccggtctaa tgttgctttt attattttga a
+//
+LOCUS       cluster_592:UMI_GCCGTC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_592:UMI_GCCGTC.
+ACCESSION   cluster_592:UMI_GCCGTC
+VERSION     cluster_592:UMI_GCCGTC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tgtgtctctc tgtccccaga tcggaagagc a
+//
+LOCUS       cluster_597:UMI_TTTTGG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_597:UMI_TTTTGG.
+ACCESSION   cluster_597:UMI_TTTTGG
+VERSION     cluster_597:UMI_TTTTGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gcgtaggggt tttaggtaaa tgtcctttga a
+//
+LOCUS       cluster_602:UMI_CTCTCA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_602:UMI_CTCTCA.
+ACCESSION   cluster_602:UMI_CTCTCA
+VERSION     cluster_602:UMI_CTCTCA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggtttccgcc ccccagatcg gaagagcaca c
+//
+LOCUS       cluster_604:UMI_TTAAGG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_604:UMI_TTAAGG.
+ACCESSION   cluster_604:UMI_TTAAGG
+VERSION     cluster_604:UMI_TTAAGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gctactacca ccaagatctg cacctgcggc g
+//
+LOCUS       cluster_607:UMI_TCCGAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_607:UMI_TCCGAC.
+ACCESSION   cluster_607:UMI_TCCGAC
+VERSION     cluster_607:UMI_TCCGAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gattaatgaa aacattcttg gcaaatgctt t
+//
+LOCUS       cluster_613:UMI_CCCGTC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_613:UMI_CCCGTC.
+ACCESSION   cluster_613:UMI_CCCGTC
+VERSION     cluster_613:UMI_CCCGTC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tgttatattt cacatcattt tttccagaca t
+//
+LOCUS       cluster_615:UMI_TGGGAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_615:UMI_TGGGAC.
+ACCESSION   cluster_615:UMI_TGGGAC
+VERSION     cluster_615:UMI_TGGGAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tctaaacctg gaaatttatc tggagtcttc c
+//
+LOCUS       cluster_619:UMI_TGTGAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_619:UMI_TGTGAC.
+ACCESSION   cluster_619:UMI_TGTGAC
+VERSION     cluster_619:UMI_TGTGAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccagatcgga agagcacacg tctgaactcc a
+//
+LOCUS       cluster_621:UMI_TTCGTC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_621:UMI_TTCGTC.
+ACCESSION   cluster_621:UMI_TTCGTC
+VERSION     cluster_621:UMI_TTCGTC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gttttttacc ccctccccag atcggaagag c
+//
+LOCUS       cluster_622:UMI_TGGCTG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_622:UMI_TGGCTG.
+ACCESSION   cluster_622:UMI_TGGCTG
+VERSION     cluster_622:UMI_TGGCTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gagacagagt attgctgtgt cgccccccag a
+//
+LOCUS       cluster_626:UMI_CGCGCA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_626:UMI_CGCGCA.
+ACCESSION   cluster_626:UMI_CGCGCA
+VERSION     cluster_626:UMI_CGCGCA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cttttttttt ttaaaaaccc ccagatcgga a
+//
+LOCUS       cluster_632:UMI_TGGCAA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_632:UMI_TGGCAA.
+ACCESSION   cluster_632:UMI_TGGCAA
+VERSION     cluster_632:UMI_TGGCAA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gagatggagt ccccagatcg gaagagcaca c
+//
+LOCUS       cluster_634:UMI_AGATCA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_634:UMI_AGATCA.
+ACCESSION   cluster_634:UMI_AGATCA
+VERSION     cluster_634:UMI_AGATCA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gttttttttt tttctctcct aacaccccag a
+//
+LOCUS       cluster_638:UMI_CCTTAG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_638:UMI_CCTTAG.
+ACCESSION   cluster_638:UMI_CCTTAG
+VERSION     cluster_638:UMI_CCTTAG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tactttaaaa tgctttattg gaattatttt g
+//
+LOCUS       cluster_648:UMI_CCTATG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_648:UMI_CCTATG.
+ACCESSION   cluster_648:UMI_CCTATG
+VERSION     cluster_648:UMI_CCTATG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttttttcccc ccaagatcgg aaaaacacac c
+//
+LOCUS       cluster_649:UMI_GACGGA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_649:UMI_GACGGA.
+ACCESSION   cluster_649:UMI_GACGGA
+VERSION     cluster_649:UMI_GACGGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tttttttttt tttttttcac accccacaca g
+//
+LOCUS       cluster_663:UMI_CAAAGG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_663:UMI_CAAAGG.
+ACCESSION   cluster_663:UMI_CAAAGG
+VERSION     cluster_663:UMI_CAAAGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 taagaccctc atcaatagat ggagatatac a
+//
+LOCUS       cluster_664:UMI_CGCCGG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_664:UMI_CGCCGG.
+ACCESSION   cluster_664:UMI_CGCCGG
+VERSION     cluster_664:UMI_CGCCGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tccccccccc aaatcggaaa aacacacccc c
+//
+LOCUS       cluster_672:UMI_GGACGA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_672:UMI_GGACGA.
+ACCESSION   cluster_672:UMI_GGACGA
+VERSION     cluster_672:UMI_GGACGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 attttgtctt ttgttttcat tttttcttgc t
+//
+LOCUS       cluster_674:UMI_CGTTTC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_674:UMI_CGTTTC.
+ACCESSION   cluster_674:UMI_CGTTTC
+VERSION     cluster_674:UMI_CGTTTC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 agacaagttc tcgctctgtc acccaggctg g
+//
+LOCUS       cluster_675:UMI_GTATTG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_675:UMI_GTATTG.
+ACCESSION   cluster_675:UMI_GTATTG
+VERSION     cluster_675:UMI_GTATTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cagttgtcaa atgatccttt attgaaatgt t
+//
+LOCUS       cluster_676:UMI_AGGTAG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_676:UMI_AGGTAG.
+ACCESSION   cluster_676:UMI_AGGTAG
+VERSION     cluster_676:UMI_AGGTAG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tggcattttt aatttaggtt tgttttattt a
+//
+LOCUS       cluster_677:UMI_CCTGGA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_677:UMI_CCTGGA.
+ACCESSION   cluster_677:UMI_CCTGGA
+VERSION     cluster_677:UMI_CCTGGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gcaccccctc ccagatcgga aaaacacacc c
+//
+LOCUS       cluster_680:UMI_CCGCTA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_680:UMI_CCGCTA.
+ACCESSION   cluster_680:UMI_CCGCTA
+VERSION     cluster_680:UMI_CCGCTA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tctgatctga cattatttct atatttttag a
+//
+LOCUS       cluster_681:UMI_GGACCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_681:UMI_GGACCC.
+ACCESSION   cluster_681:UMI_GGACCC
+VERSION     cluster_681:UMI_GGACCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 agctttgcaa ccatactccc cccccagatc g
+//
+LOCUS       cluster_682:UMI_GTGCAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_682:UMI_GTGCAC.
+ACCESSION   cluster_682:UMI_GTGCAC
+VERSION     cluster_682:UMI_GTGCAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gttttttttt ttttttttac cccccccaca c
+//
+LOCUS       cluster_684:UMI_GTTCAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_684:UMI_GTTCAC.
+ACCESSION   cluster_684:UMI_GTTCAC
+VERSION     cluster_684:UMI_GTTCAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tgcaaccata ctcccccccc cagatcggaa t
+//
+LOCUS       cluster_687:UMI_ACGAAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_687:UMI_ACGAAC.
+ACCESSION   cluster_687:UMI_ACGAAC
+VERSION     cluster_687:UMI_ACGAAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gacactactc tcccacatcg cgagagagca c
+//
+LOCUS       cluster_689:UMI_CCTTCA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_689:UMI_CCTTCA.
+ACCESSION   cluster_689:UMI_CCTTCA
+VERSION     cluster_689:UMI_CCTTCA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 aaagaagtaa gcctttattt ccttgttttg c
+//
+LOCUS       cluster_690:UMI_ATTTAG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_690:UMI_ATTTAG.
+ACCESSION   cluster_690:UMI_ATTTAG
+VERSION     cluster_690:UMI_ATTTAG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gttttttttt tttttttttt ttttttttct g
+//
+LOCUS       cluster_692:UMI_GCGTCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_692:UMI_GCGTCC.
+ACCESSION   cluster_692:UMI_GCGTCC
+VERSION     cluster_692:UMI_GCGTCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gaggtgaagt ttcactttgt ccccagatcg a
+//
+LOCUS       cluster_693:UMI_CGGCCA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_693:UMI_CGGCCA.
+ACCESSION   cluster_693:UMI_CGGCCA
+VERSION     cluster_693:UMI_CGGCCA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cttttgaggc tttttcgttg ccagcaaggg c
+//
+LOCUS       cluster_699:UMI_TGTTTC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_699:UMI_TGTTTC.
+ACCESSION   cluster_699:UMI_TGTTTC
+VERSION     cluster_699:UMI_TGTTTC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ctttctttct ttcttttgtt tctttcttgc t
+//
+LOCUS       cluster_700:UMI_ATCGAA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_700:UMI_ATCGAA.
+ACCESSION   cluster_700:UMI_ATCGAA
+VERSION     cluster_700:UMI_ATCGAA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gcagttttta catttattta aacagaaaac g
+//
+LOCUS       cluster_706:UMI_CCACGG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_706:UMI_CCACGG.
+ACCESSION   cluster_706:UMI_CCACGG
+VERSION     cluster_706:UMI_CCACGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gcccttctgc tcccccagat cggaagagca c
+//
+LOCUS       cluster_711:UMI_CTCCGA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_711:UMI_CTCCGA.
+ACCESSION   cluster_711:UMI_CTCCGA
+VERSION     cluster_711:UMI_CTCCGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 attaatgaaa acattcttgg caaatgcttt c
+//
+LOCUS       cluster_714:UMI_ACGCGA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_714:UMI_ACGCGA.
+ACCESSION   cluster_714:UMI_ACGCGA
+VERSION     cluster_714:UMI_ACGCGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tttttccccc ccccagatcg aaaaagcaca c
+//
+LOCUS       cluster_715:UMI_CTGTCG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_715:UMI_CTGTCG.
+ACCESSION   cluster_715:UMI_CTGTCG
+VERSION     cluster_715:UMI_CTGTCG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttttggggcc ccccccagat cggaaaagca c
+//
+LOCUS       cluster_716:UMI_GGGGTC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_716:UMI_GGGGTC.
+ACCESSION   cluster_716:UMI_GGGGTC
+VERSION     cluster_716:UMI_GGGGTC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccccccccaa aatcgaaaaa acacacccct a
+//
+LOCUS       cluster_717:UMI_CAGCCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_717:UMI_CAGCCC.
+ACCESSION   cluster_717:UMI_CAGCCC
+VERSION     cluster_717:UMI_CAGCCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tcagctttgc aaccatactc cccccggaac c
+//
+LOCUS       cluster_719:UMI_GAGAAA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_719:UMI_GAGAAA.
+ACCESSION   cluster_719:UMI_GAGAAA
+VERSION     cluster_719:UMI_GAGAAA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gggagtagtg tctttattca ttaaagcctg a
+//
+LOCUS       cluster_721:UMI_TTGTTC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_721:UMI_TTGTTC.
+ACCESSION   cluster_721:UMI_TTGTTC
+VERSION     cluster_721:UMI_TTGTTC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gagacggaga ctcactctgt cgccccccag a
+//
+LOCUS       cluster_722:UMI_TCCATA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_722:UMI_TCCATA.
+ACCESSION   cluster_722:UMI_TCCATA
+VERSION     cluster_722:UMI_TCCATA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gttttttttt tttttttcag taagcacagg t
+//
+LOCUS       cluster_727:UMI_TTTACC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_727:UMI_TTTACC.
+ACCESSION   cluster_727:UMI_TTTACC
+VERSION     cluster_727:UMI_TTTACC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttctgagcct aaatgccctc aaagcccgtc c
+//
+LOCUS       cluster_730:UMI_ACCTTG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_730:UMI_ACCTTG.
+ACCESSION   cluster_730:UMI_ACCTTG
+VERSION     cluster_730:UMI_ACCTTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tccccccccc caaatcggaa aaacacaccc c
+//
+LOCUS       cluster_731:UMI_GTCACA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_731:UMI_GTCACA.
+ACCESSION   cluster_731:UMI_GTCACA
+VERSION     cluster_731:UMI_GTCACA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttgcttcact gacttaactc aaatttctta a
+//
+LOCUS       cluster_732:UMI_AGGAAG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_732:UMI_AGGAAG.
+ACCESSION   cluster_732:UMI_AGGAAG
+VERSION     cluster_732:UMI_AGGAAG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccccccccca aatcggaaaa acacacccct a
+//
+LOCUS       cluster_742:UMI_GAGACC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_742:UMI_GAGACC.
+ACCESSION   cluster_742:UMI_GAGACC
+VERSION     cluster_742:UMI_GAGACC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tgagtgggag tctcgctctg taccccaggt g
+//
+LOCUS       cluster_756:UMI_TCGATA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_756:UMI_TCGATA.
+ACCESSION   cluster_756:UMI_TCGATA
+VERSION     cluster_756:UMI_TCGATA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ctttgtttca agttttaatc aaagcttgta t
+//
+LOCUS       cluster_757:UMI_TTGCAA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_757:UMI_TTGCAA.
+ACCESSION   cluster_757:UMI_TTGCAA
+VERSION     cluster_757:UMI_TTGCAA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tctttgcaca cttatatttt tttttgtgtt t
+//
+LOCUS       cluster_764:UMI_ACGACC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_764:UMI_ACGACC.
+ACCESSION   cluster_764:UMI_ACGACC
+VERSION     cluster_764:UMI_ACGACC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cacgcttaat tcactttatt tttccccaga t
+//
+LOCUS       cluster_766:UMI_TATTGG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_766:UMI_TATTGG.
+ACCESSION   cluster_766:UMI_TATTGG
+VERSION     cluster_766:UMI_TATTGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cttcccagta actgagagaa aattaccatt c
+//
+LOCUS       cluster_772:UMI_AGGAAA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_772:UMI_AGGAAA.
+ACCESSION   cluster_772:UMI_AGGAAA
+VERSION     cluster_772:UMI_AGGAAA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 aagaccacaa agatttaatt taaaatcaca g
+//
+LOCUS       cluster_775:UMI_CCTGCA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_775:UMI_CCTGCA.
+ACCESSION   cluster_775:UMI_CCTGCA
+VERSION     cluster_775:UMI_CCTGCA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gtgcaaaaac tgaatgtagt caatggtctt t
+//
+LOCUS       cluster_778:UMI_TTGGGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_778:UMI_TTGGGC.
+ACCESSION   cluster_778:UMI_TTGGGC
+VERSION     cluster_778:UMI_TTGGGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 atttaacatg aggaaacccc agatcggaag a
+//
+LOCUS       cluster_780:UMI_GTTGCA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_780:UMI_GTTGCA.
+ACCESSION   cluster_780:UMI_GTTGCA
+VERSION     cluster_780:UMI_GTTGCA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ggagttccta acccaacagt aatatcatta g
+//
+LOCUS       cluster_787:UMI_GCAGTC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_787:UMI_GCAGTC.
+ACCESSION   cluster_787:UMI_GCAGTC
+VERSION     cluster_787:UMI_GCAGTC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tgatagcatt gcgagacgct ggagccggag c
+//
+LOCUS       cluster_792:UMI_CGGCAC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_792:UMI_CGGCAC.
+ACCESSION   cluster_792:UMI_CGGCAC
+VERSION     cluster_792:UMI_CGGCAC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tgtcaccatc cttcttttct tcttcctcat c
+//
+LOCUS       cluster_794:UMI_GCATCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_794:UMI_GCATCC.
+ACCESSION   cluster_794:UMI_GCATCC
+VERSION     cluster_794:UMI_GCATCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cccccccaga tcggaaaagc acacgcctga a
+//
+LOCUS       cluster_796:UMI_ATTTGA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_796:UMI_ATTTGA.
+ACCESSION   cluster_796:UMI_ATTTGA
+VERSION     cluster_796:UMI_ATTTGA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tagtcagcta tttaattagg ttcttaagac a
+//
+LOCUS       cluster_799:UMI_CGTGCA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_799:UMI_CGTGCA.
+ACCESSION   cluster_799:UMI_CGTGCA
+VERSION     cluster_799:UMI_CGTGCA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gctcgtcttt ctcccccaga tcggaacagt a
+//
+LOCUS       cluster_805:UMI_CGTGGG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_805:UMI_CGTGGG.
+ACCESSION   cluster_805:UMI_CGTGGG
+VERSION     cluster_805:UMI_CGTGGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gtactgctca agcgctgtct atatctctct a
+//
+LOCUS       cluster_807:UMI_GATATG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_807:UMI_GATATG.
+ACCESSION   cluster_807:UMI_GATATG
+VERSION     cluster_807:UMI_GATATG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tttttccaca cgtaaaattt ataaacattt a
+//
+LOCUS       cluster_809:UMI_CTTTTA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_809:UMI_CTTTTA.
+ACCESSION   cluster_809:UMI_CTTTTA
+VERSION     cluster_809:UMI_CTTTTA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cacaaggaat atcattttat tactgtaatc a
+//
+LOCUS       cluster_810:UMI_TCTCGC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_810:UMI_TCTCGC.
+ACCESSION   cluster_810:UMI_TCTCGC
+VERSION     cluster_810:UMI_TCTCGC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gaagagcaca cgtctgaact ccagtcaccg t
+//
+LOCUS       cluster_814:UMI_GGGCTG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_814:UMI_GGGCTG.
+ACCESSION   cluster_814:UMI_GGGCTG
+VERSION     cluster_814:UMI_GGGCTG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttctaggtcc aatggtagtt tttattcccc a
+//
+LOCUS       cluster_816:UMI_ATGTAG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_816:UMI_ATGTAG.
+ACCESSION   cluster_816:UMI_ATGTAG
+VERSION     cluster_816:UMI_ATGTAG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tgagacaaca tctcactctg ttacccccca a
+//
+LOCUS       cluster_819:UMI_AGTATA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_819:UMI_AGTATA.
+ACCESSION   cluster_819:UMI_AGTATA
+VERSION     cluster_819:UMI_AGTATA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gctgtaggaa cagcagtctt ggtggttagc a
+//
+LOCUS       cluster_823:UMI_TTTTTA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_823:UMI_TTTTTA.
+ACCESSION   cluster_823:UMI_TTTTTA
+VERSION     cluster_823:UMI_TTTTTA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ccattataat agccatcttt atttgtaaaa a
+//
+LOCUS       cluster_824:UMI_GAGTCC    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_824:UMI_GAGTCC.
+ACCESSION   cluster_824:UMI_GAGTCC
+VERSION     cluster_824:UMI_GAGTCC
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 agctttgcaa ccatactccc cccggaaccc a
+//
+LOCUS       cluster_828:UMI_CTCGTA    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_828:UMI_CTCGTA.
+ACCESSION   cluster_828:UMI_CTCGTA
+VERSION     cluster_828:UMI_CTCGTA
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gccccccccc aaatcggaaa aacacacccc c
+//
+LOCUS       cluster_834:UMI_TTAAGG    31 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cluster_834:UMI_TTAAGG.
+ACCESSION   cluster_834:UMI_TTAAGG
+VERSION     cluster_834:UMI_TTAAGG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 agggtggggg atcacattta ttgtattgag g
+//

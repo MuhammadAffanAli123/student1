@@ -1,0 +1,26 @@
+LOCUS       5fd1                     106 bp    DNA              UNK 01-JAN-1980
+DEFINITION  5fd1.
+ACCESSION   5fd1
+VERSION     5fd1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 afvvtdncik ckytdcvevc pvdcfyegpn flvihpdeci dcalcepecp aqaifsedev
+       61 pedmqefiql naelaevwpn itekkdplpd aedwdgvkgk lqhler
+//
+LOCUS       1fdx                     104 bp    DNA              UNK 01-JAN-1980
+DEFINITION  1fdx.
+ACCESSION   1fdx
+VERSION     1fdx
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ayvindscia cgackpecpv niiqgs--iy aidadscidc gscasvcpvg apnped----
+       61 ---------- ---------- ---------- ---------- ----
+//
